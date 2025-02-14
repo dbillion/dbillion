@@ -1,7 +1,4 @@
 <h1>Hi 👋, I'm fullstack developer</h1>
-<p>A passionate frontend  and backend developer </p>
-
-<h1 align="center">I teach software languages to newbies and help them build strong engineering careers</h1>
 
 ###
 
@@ -9,7 +6,61 @@
 
 ###
 
-<p align="left">I'm Oludayo <br><br>- 🔭 I’m working as a full stack developer and a trainer ...<br>- 📚 I'm currently learning golang and rust...<br>- ⚡ In my free time I answer questions from other developers ...</p>
+# Professional Summary for GitHub README Portfolio
+
+## Hello there! 👋 I’m Oludayo Adeoye, a Full-Stack Developer based in Tallinn, Estonia.
+
+With a strong foundation in **Software Development and Entrepreneurship**, I bring a unique blend of technical expertise and creative problem-solving to every project I work on. 
+
+My journey began with a **Bachelor's Degree in Mechanical Engineering**, which honed my analytical thinking, followed by a deep dive into the world of software development through my studies at **Estonian Entrepreneurship University of Applied Sciences**. Along the way, I’ve developed a passion for building **robust, scalable, and user-friendly applications** that solve real-world problems.
+
+---
+
+## 🚀 What I Do
+I specialize in creating **end-to-end solutions** using a variety of technologies, including **Java**, **Kotlin**, **Go**, **PHP**, and **JavaScript**. Whether it’s designing interactive frontends with **ReactJS** and **Three.js**, building efficient backends with **Spring Boot**, or deploying cloud-native applications with **Google Cloud Platform**, I’m committed to delivering high-quality results that add value to your projects.
+
+---
+
+## 💡 How I Can Help You
+
+### Java & Kotlin
+🔹 Need a solid backend? I excel in building **RESTful APIs, microservices, and enterprise-grade applications** using **Spring Boot** and **Kotlin**. From OOP principles to modern design patterns, I ensure your codebase is **clean, maintainable, and scalable**.
+
+### Go (Golang)
+🔹 Looking for **performance and concurrency**? My experience with **Go** allows me to craft fast, efficient solutions for **data processing, API development, and DevOps pipelines**.
+
+### PHP
+🔹 For web-based systems, I leverage **PHP frameworks like Laravel** to build **dynamic, feature-rich applications**. Whether it’s **e-commerce platforms or content management systems**, I’ve got you covered.
+
+### JavaScript/TypeScript
+🔹 On the frontend, I create **engaging user experiences** with **ReactJS, NextJS, and TypeScript**. From **responsive designs** to **interactive 3D web experiences** using **Three.js**, I help bring your ideas to life.
+
+### Cloud & DevOps
+🔹 As someone who has trained others in **cloud deployment and automation**, I can assist in setting up **CI/CD pipelines, containerizing applications with Docker, and managing infrastructure with Google Cloud and Firebase**.
+
+---
+
+## 🎯 Why Work With Me?
+✅ **Practical Experience** – With hands-on experience as a **trainer, intern, and freelance developer**, I understand both the **theoretical and practical** aspects of software development.
+
+✅ **Value-Driven Approach** – My focus is not just on writing code but on **delivering solutions that align with your business goals**.
+
+✅ **Adaptability** – Having worked across **multiple industries and technologies**, I adapt quickly to new challenges and environments.
+
+✅ **Collaborative Mindset** – I believe in **open communication and teamwork**, ensuring that we build something you’re proud of.
+
+---
+
+## 👨‍💻 A Bit About Me
+When I’m not coding, you’ll find me **exploring new technologies, mentoring aspiring developers, or enjoying the vibrant tech community here in Tallinn**. My background in both **engineering and entrepreneurship** gives me a **holistic perspective**, allowing me to approach problems with **creativity and pragmatism**.
+
+If you’re looking for someone who can **bridge the gap between technology and business needs**, I’d love to collaborate with you. Together, let’s build solutions that make an impact! 🚀
+
+---
+
+## 📩 Let’s Connect!
+Feel free to reach out via **[LinkedIn](#)** or check out my contributions on **[GitHub](#)**. I’m always open to **discussing new opportunities, sharing knowledge, or collaborating on exciting projects**.
+
 
 ###
 
