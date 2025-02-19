@@ -6,7 +6,7 @@
 
 ###
 
-# Professional Summary for GitHub README Portfolio
+# Professional Summary
 
 ## Hello there! 👋 I’m Oludayo Adeoye, a Full-Stack Developer based in Tallinn, Estonia.
 
